@@ -37,7 +37,7 @@
     {
         "objectId" : "microwave-outline",
         "objectName": "microwave and oven",
-        "objectDescription": "Where possible use a microwave for cooking, and use the toaster rather than the grill."
+        "objectDescription": "Where possible use a microwave for cooking, and use the toaster rather than the grill and when your food is nearly cooked, turn off the rings/oven and use the built up heat to finish cooking your food."
     },
     {
         "objectId" : "livingroom-lights-outline",
@@ -67,7 +67,7 @@
     {
         "objectId" : "toilet-outline",
         "objectName": "toilet",
-        "objectDescription": "save water, fewer flushes, newer efficient toilets"
+        "objectDescription": "Newer bathroom fixtures and appliances like toilets, showerheads and faucets are designed to be more water-efficient than older models and can save hundreds of liters a month. For example, older toilets use up to six gallons per flush, whereas low-flow toilets (or any toilet manufactured after 1994) use 6 liters or less."
     },
     {
         "objectId" : "toilet-paper-outline",
