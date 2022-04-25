@@ -22,17 +22,17 @@
     {
         "objectId" : "kitchen-tap-outline",
         "objectName": "kitchen taps", 
-        "objectDescription": "turn off taps, don't waste water"
+        "objectDescription": "Use a basing in your sink when rinsing food and use it for watering plants."
     },
     {
         "objectId" : "bathroom-tap-outline",
         "objectName": "bathroom taps", 
-        "objectDescription": "turn off taps, don't waste water  DUPLICATE"
+        "objectDescription": "Avoid using excess water at home by mending taps and running toilets."
     },
     {
         "objectId" : "kitchen-sink-outline",
         "objectName": "Dishes and dishwasher",
-        "objectDescription": "dishwashers save water/energy over washing manually"
+        "objectDescription": "Newer dishwashers and clothes washers use water much more efficiently than older models. Water-efficient dishwashers save more than 1.8927 litres of water per year compared with washing dishes by hand (and use less than half as much energy, too)"
     },
     {
         "objectId" : "microwave-outline",
@@ -57,7 +57,7 @@
     {
         "objectId" : "covers-outline",
         "objectName": "bed covers",
-        "objectDescription": "use seasonal sheets to save on air conditioning/heating"
+        "objectDescription": "Use seasonal sheets to save on air conditioning/heating"
     },
     {
         "objectId" : "socket-outline",
@@ -72,16 +72,16 @@
     {
         "objectId" : "toilet-paper-outline",
         "objectName": "toilet paper",
-        "objectDescription": "use recycled paper"
+        "objectDescription": "Recycled toilet paper is made from 100% post-consumer waste, such as textbooks and office paper. Using recycled paper means fewer trees are cut down, leaving them in the ground to keep our air clean, provide homes for animals and protect soil from erosion."
     },
     {
         "objectId" : "washing-machine-outline",
         "objectName": "washing machine",
-        "objectDescription": "use cooler washes and only wash full loads"
+        "objectDescription": "Newer washing machines handle much bigger loads of clothing with much less water. A full-sized ENERGY STAR-certified clothes washer uses 49 litres of water per load, compared to the 87 litres used by a standard machine, saving over 11356.24 litres of water per year."
     },
     {
         "objectId" : "shower-outline",
         "objectName": "shower and bath",
-        "objectDescription": "short showers save water over baths"
+        "objectDescription": "Taking a shorter shower can save up to 10 litres of water a minute."
     }
 ]
