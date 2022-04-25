@@ -67,7 +67,7 @@
     {
         "objectId" : "toilet-outline",
         "objectName": "toilet",
-        "objectDescription": "Newer bathroom fixtures and appliances like toilets, showerheads and faucets are designed to be more water-efficient than older models and can save hundreds of liters a month. For example, older toilets use up to six gallons per flush, whereas low-flow toilets (or any toilet manufactured after 1994) use 6 liters or less."
+        "objectDescription": "Newer bathroom fixtures and appliances like toilets, showerheads and faucets are designed to be more water-efficient than older models and can save hundreds of liters a month. For example, older toilets use up to 22 liters per flush, whereas low-flow toilets (or any toilet manufactured after 1994) use 6 liters or less."
     },
     {
         "objectId" : "toilet-paper-outline",
