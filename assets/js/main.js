@@ -20,6 +20,10 @@
         state = count / objectCount;
         graphic.style.setProperty('--mix', state);
 
+        // Display state
+        document.getElementById('found-display').innerText = count;
+        document.getElementById('total-display').innerText = objectCount;
+
         // Save current state
         saveState();
     }
@@ -50,6 +54,12 @@
         // Setup initial state
         updateState(loadState());
     });
+
+    // Reset button
+    document.getElementById('reset-btn').addEventListener('click', function() {
+        resetStorage();
+        window.location.reload();
+    });
 })();
 
 /*
@@ -57,4 +67,7 @@
  */
 (function() {
     const modal = new bootstrap.Modal(document.getElementById('info-modal'));
+})();
+(function() {
+    const contactModal = new bootstrap.Modal(document.getElementById('contact-modal'));
 })();

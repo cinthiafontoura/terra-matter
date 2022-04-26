@@ -97,3 +97,38 @@ main {
   color: var(--color__secondary);
   border-bottom: 2px solid var(--color__secondary);
 }
+
+#issues-panel {
+  position: absolute;
+  top: 165px;
+  right: 25px;
+  width: 400px;
+
+  padding: 10px;
+  background: #33333355;
+  color: white;
+
+  border-radius: 10px;
+}
+
+#issues-panel > h4 {
+  border-bottom: 1px solid white;
+}
+
+#reset-btn {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+#reset-btn:hover {
+  color: red;
+  border: 1px solid red;
+}
+
+#reset-btn:active {
+  color: red;
+  background-color: white;
+}
